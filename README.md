@@ -1,1 +1,1 @@
-# recipe
+# gpt like
